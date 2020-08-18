@@ -1,8 +1,8 @@
 {
-  "name": "FrontEnd-OmniStack-11",
+  "name": "Conceitos-React-OmniStack-11",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/matheussla/FrontEnd-OmniStack-11.git",
+  "repository": "https://github.com/matheussla/Conceitos-React-OmniStack-11.git",
   "author": "ma89020 <matheusabreu_southsystem@getnet.com.br>",
   "license": "MIT",
   "dependencies": {
